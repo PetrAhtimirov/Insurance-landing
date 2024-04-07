@@ -15,21 +15,23 @@ const Chat = () => {
         event.preventDefault();
         setHistory((prev) => {
             let updatedHistory = [...prev, { type: 'user', text: query }];
-            if (updatedHistory.length > 1) {
-                updatedHistory = updatedHistory.slice(-1);
+            if (updatedHistory.length > 50) {
+                updatedHistory = updatedHistory.slice(-50);
             }
             window.localStorage.setItem('history', JSON.stringify(updatedHistory));
             return updatedHistory;
         });
-        let q = ' ' + query;
+
+        const q = query;
         setQuery('');
+
         fetch('https://api.dino-misis.ru/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                text: history.map((item) => (item.type === 'user' ? item.text : '')).join(' ') + q,
+                text: q,
             }),
         })
             .then((response) => {
