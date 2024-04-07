@@ -15,8 +15,8 @@ const Chat = () => {
         event.preventDefault();
         setHistory((prev) => {
             let updatedHistory = [...prev, { type: 'user', text: query }];
-            if (updatedHistory.length > 50) {
-                updatedHistory = updatedHistory.slice(-2);
+            if (updatedHistory.length > 1) {
+                updatedHistory = updatedHistory.slice(-1);
             }
             window.localStorage.setItem('history', JSON.stringify(updatedHistory));
             return updatedHistory;
