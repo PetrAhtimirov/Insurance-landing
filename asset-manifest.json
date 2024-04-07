@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Insurance-landing/static/css/main.794b191a.css",
-    "main.js": "/Insurance-landing/static/js/main.f0d6800d.js",
+    "main.css": "/Insurance-landing/static/css/main.c9bd2f2b.css",
+    "main.js": "/Insurance-landing/static/js/main.8ac1094f.js",
     "static/media/ProtoGrotesk-Regular.ttf": "/Insurance-landing/static/media/ProtoGrotesk-Regular.8fb72a49751a53d2def6.ttf",
     "static/media/ProtoGrotesk-Bold.ttf": "/Insurance-landing/static/media/ProtoGrotesk-Bold.a9fa9dc0b4dac4bead48.ttf",
     "static/media/need-image-6.svg": "/Insurance-landing/static/media/need-image-6.a01a238a9fc8bcd56766.svg",
@@ -31,11 +31,11 @@
     "static/media/decorate3.svg": "/Insurance-landing/static/media/decorate3.e5199b5ba9e8a55bcba6.svg",
     "static/media/arrow-left.svg": "/Insurance-landing/static/media/arrow-left.12361149f9befd325f9ad301665c750e.svg",
     "static/media/arrow-right.svg": "/Insurance-landing/static/media/arrow-right.11e14c6a84591f1fbe42d315b04a8cca.svg",
-    "main.794b191a.css.map": "/Insurance-landing/static/css/main.794b191a.css.map",
-    "main.f0d6800d.js.map": "/Insurance-landing/static/js/main.f0d6800d.js.map"
+    "main.c9bd2f2b.css.map": "/Insurance-landing/static/css/main.c9bd2f2b.css.map",
+    "main.8ac1094f.js.map": "/Insurance-landing/static/js/main.8ac1094f.js.map"
   },
   "entrypoints": [
-    "static/css/main.794b191a.css",
-    "static/js/main.f0d6800d.js"
+    "static/css/main.c9bd2f2b.css",
+    "static/js/main.8ac1094f.js"
   ]
 }
