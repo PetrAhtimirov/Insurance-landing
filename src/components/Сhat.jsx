@@ -23,7 +23,7 @@ const Chat = () => {
         });
         let q = " " + query;
         setQuery("");
-        fetch('http://51.81.223.243:8000/chat', {
+        fetch('https://api.dino-misis.ru/chat', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
