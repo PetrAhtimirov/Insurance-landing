@@ -6,7 +6,7 @@ import './app.css';
 
 function App() {
     return (
-        <Router>
+        <Router basename="Insurance-landing">
             <div className="app">
                 <Routes>
                     <Route path="/" element={<MainPage />} />
