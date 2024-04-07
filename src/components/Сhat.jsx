@@ -14,7 +14,10 @@ const Chat = () => {
     const onSubmit = (event) => {
         event.preventDefault();
         setHistory((prev) => {
-            const updatedHistory = [...prev, {type: "user", text: query}];
+            let updatedHistory = [...prev, {type: "user", text: query}];
+            if (updatedHistory.length > 50) {
+                updatedHistory = updatedHistory.slice(-50);
+            }
             window.localStorage.setItem('history', JSON.stringify(updatedHistory));
             return updatedHistory;
         });
@@ -38,7 +41,10 @@ const Chat = () => {
             })
             .then(data => {
                 setHistory((prev) => {
-                    const updatedHistory = [...prev, {type: "bot", text: data.text}];
+                    let updatedHistory = [...prev, {type: "bot", text: data.text}];
+                    if (updatedHistory.length > 50) {
+                        updatedHistory = updatedHistory.slice(-50);
+                    }
                     window.localStorage.setItem('history', JSON.stringify(updatedHistory));
                     return updatedHistory;
                 });
