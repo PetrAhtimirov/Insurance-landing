@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Insurance-landing/static/css/main.794b191a.css",
+    "main.js": "/Insurance-landing/static/js/main.26b92687.js",
+    "static/media/ProtoGrotesk-Regular.ttf": "/Insurance-landing/static/media/ProtoGrotesk-Regular.8fb72a49751a53d2def6.ttf",
+    "static/media/ProtoGrotesk-Bold.ttf": "/Insurance-landing/static/media/ProtoGrotesk-Bold.a9fa9dc0b4dac4bead48.ttf",
+    "static/media/need-image-6.svg": "/Insurance-landing/static/media/need-image-6.a01a238a9fc8bcd56766.svg",
+    "static/media/SuisseIntl-Regular.otf": "/Insurance-landing/static/media/SuisseIntl-Regular.b248914e0a53493d03f0.otf",
+    "static/media/SuisseIntl-Medium.otf": "/Insurance-landing/static/media/SuisseIntl-Medium.d6e230018ba96578144d.otf",
+    "static/media/ProtoGrotesk-Bold.otf": "/Insurance-landing/static/media/ProtoGrotesk-Bold.1d6187604f44fc890c40.otf",
+    "static/media/ProtoGrotesk-Regular.otf": "/Insurance-landing/static/media/ProtoGrotesk-Regular.d51ad444799430ef2ce4.otf",
+    "static/media/need-image-2.svg": "/Insurance-landing/static/media/need-image-2.fcf363b5b2b0729bd199.svg",
+    "static/media/need-image-3.svg": "/Insurance-landing/static/media/need-image-3.1566f6d6b9d202efa2bc.svg",
+    "static/media/banner-image.svg": "/Insurance-landing/static/media/banner-image.9eb40db827f8fa68fcc6e512e15590e9.svg",
+    "static/media/need-image-1.svg": "/Insurance-landing/static/media/need-image-1.704722ffd37137dd14d1.svg",
+    "static/media/need-image-7.svg": "/Insurance-landing/static/media/need-image-7.78df354a565ecd86c817.svg",
+    "static/media/need-image-5.svg": "/Insurance-landing/static/media/need-image-5.578a6ed9fcc990796e1d.svg",
+    "static/media/need-image-4.svg": "/Insurance-landing/static/media/need-image-4.35ce90cdbeb15b2fb135.svg",
+    "static/media/sponsor.svg": "/Insurance-landing/static/media/sponsor.bf18cee7cba0235bae3a141d355126aa.svg",
+    "static/media/header-logo.svg": "/Insurance-landing/static/media/header-logo.9644e920c02b42ada11ca0e3d69170d7.svg",
+    "static/media/vk.svg": "/Insurance-landing/static/media/vk.9051076ad3aa0aa8ab1095fd80fe97cb.svg",
+    "static/media/ok.svg": "/Insurance-landing/static/media/ok.efd08081e7d1b36cf8ac55bb3862b818.svg",
+    "static/media/chat.svg": "/Insurance-landing/static/media/chat.ec5d2a6be721aa791bb3ff80e3e66261.svg",
+    "static/media/tg.svg": "/Insurance-landing/static/media/tg.c311f0e459f6624bae0287cff406f92c.svg",
+    "static/media/dzen.svg": "/Insurance-landing/static/media/dzen.8175703e992939dc4414a582e7b4e8e7.svg",
+    "static/media/clip.svg": "/Insurance-landing/static/media/clip.34619544ac03a8f18268952e3c5f3a44.svg",
+    "static/media/send-icon.svg": "/Insurance-landing/static/media/send-icon.36eb5c1e4fc19bc5d54a59d62d76c6bb.svg",
+    "index.html": "/Insurance-landing/index.html",
+    "static/media/decorate1.svg": "/Insurance-landing/static/media/decorate1.1a7d7ee0372904759d38.svg",
+    "static/media/decorate2.svg": "/Insurance-landing/static/media/decorate2.0cc9fd6b41ebca27be38.svg",
+    "static/media/decorate3.svg": "/Insurance-landing/static/media/decorate3.e5199b5ba9e8a55bcba6.svg",
+    "static/media/arrow-left.svg": "/Insurance-landing/static/media/arrow-left.12361149f9befd325f9ad301665c750e.svg",
+    "static/media/arrow-right.svg": "/Insurance-landing/static/media/arrow-right.11e14c6a84591f1fbe42d315b04a8cca.svg",
+    "main.794b191a.css.map": "/Insurance-landing/static/css/main.794b191a.css.map",
+    "main.26b92687.js.map": "/Insurance-landing/static/js/main.26b92687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794b191a.css",
+    "static/js/main.26b92687.js"
+  ]
+}
