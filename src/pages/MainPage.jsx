@@ -6,6 +6,7 @@ import Need from "../components/Need";
 import Subscription from "../components/Subscription";
 import Questions from "../components/Questions";
 import AppFooter from "../components/AppFooter";
+import Chat from "../components/Сhat";
 
 const MainPage = () => {
     return (
@@ -18,6 +19,7 @@ const MainPage = () => {
             <Subscription />
             <Questions />
             <AppFooter />
+            <Chat />
         </>
     )
 }
