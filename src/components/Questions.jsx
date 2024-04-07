@@ -8,7 +8,7 @@ const Questions = () => {
                 <p className="questions__desc_1">
                     Ознакомьтесь с <a className="questions__link" href="/">положением о страховке</a>
                 </p>
-                <p className="questions__desc_2">(или обратиться к нашему чатботу) </p>
+                <p className="questions__desc_2">Или обратиться к нашему чатботу</p>
             </div>
         </div>
 )
