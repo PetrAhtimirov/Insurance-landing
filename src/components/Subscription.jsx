@@ -1,6 +1,6 @@
 const Subscription = () => {
     return (
-        <div className="sub">
+        <div className="sub" id="sub">
             <div className="sub__inner container">
                 <h2 className="sub__title">Подписка на страховку</h2>
                 <h3 className="sub__desc_1">

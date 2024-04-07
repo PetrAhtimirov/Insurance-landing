@@ -11,7 +11,7 @@ const Banner = () => {
                         Обезопасьте свои покупки от неожиданных ситуаций и возвращайте стоимость неиспользованных
                         билетов
                     </p>
-                    <a href="/" className="bunner__button btn" >
+                    <a href="#sub" className="bunner__button btn" >
                         Оформить страховку
                     </a>
                 </div>

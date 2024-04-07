@@ -486,6 +486,14 @@ footer {
     margin-left: auto;
 }
 
+.chat__button {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media(max-width: 1180px) {
     .banner__content {
         max-width: 500px;

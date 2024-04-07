@@ -3,6 +3,7 @@ import {useState} from "react";
 import chatLogo from '../images/chat-logo.png';
 import sendIcon from '../images/send-icon.svg';
 import clip from '../images/clip.svg';
+import chat from '../images/chat.svg';
 
 const Chat = () => {
     const [open, setOpen] = useState(false);
@@ -88,7 +89,7 @@ const Chat = () => {
                 </div>
                 : null}
             <button className="chat__button" type="button" onClick={() => setOpen(!open)}>
-                O
+                <img src={chat} alt=""/>
             </button>
         </div>
     )
